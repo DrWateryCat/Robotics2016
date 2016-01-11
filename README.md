@@ -1,5 +1,5 @@
 # Robotics2016
-This will be Team 2016's code repository for the FRC game for 2016: FIRST Stronghold.
+This will be Team 2186's code repository for the FRC game for 2016: FIRST Stronghold.
 
 ##TODO:
 
